@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ZORG-Ω Network Spy",
+  "name": "ZORG-Ω Fetch",
   "version": "1.0.0",
   "description": "Capture show credentials and API tokens for the ZORG-Ω scraping framework.",
   "permissions": [
