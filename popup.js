@@ -62,6 +62,14 @@ const PLATFORMS = {
     instruction: 'Navigate to the show page while logged in. The extension will extract the Show ID and your PHPSESSID session cookie.',
     captureLabel: 'Fetch Show ID + Session',
   },
+  smartere: {
+    name:    'Smartere',
+    icon:    '🧠',
+    color:   '#3ecf8e',
+    hint:    'intersolar / smartere platform',
+    instruction: 'Navigate to the exhibitor search page. The extension will extract the MenuPageID, CSRF Token, and Cookie.',
+    captureLabel: 'Fetch Smartere Data',
+  },
 };
 
 // ─── STATE ────────────────────────────────────────────────────────────────────
